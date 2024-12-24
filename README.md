@@ -37,13 +37,13 @@ The script handles the following event IDs:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/suuhm/xml_event_extractor.git
+   git clone https://github.com/suuhm/xml_event_xtractor.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd xml_event_extractor
+   cd xml_event_xtractor.py
    ```
 
 3. Install required dependencies:
