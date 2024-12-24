@@ -18,6 +18,9 @@ The XML Event Extractor is a Python script designed to parse security-related XM
 - Supports extraction of various security event IDs.
 - Outputs relevant event data into a CSV file.
 
+![grafik](https://github.com/user-attachments/assets/e8d40dda-7393-4753-a4de-8e8f13ff45b2)
+
+
 ## Supported Event IDs
 
 The script handles the following event IDs:
